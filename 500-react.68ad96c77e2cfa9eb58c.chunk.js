@@ -5,6 +5,6 @@
  *  version : 0.0.2 
  *  description : dgiot_amis 脚手架 
  *  author: h7ml(h7ml@qq.com) 
- *  time:Fri Oct 15 2021 07:10:59 GMT+0000 (Coordinated Universal Time)
+ *  time:Thu Nov 11 2021 16:12:59 GMT+0000 (Coordinated Universal Time)
  */
 (window.webpackJsonp=window.webpackJsonp||[]).push([[4],{CQFV:function(t,e,n){"use strict";n.r(e);var a=n("cDcd"),i=n.n(a),r=n("Exp3");e.default=function(){return i.a.createElement(r.Result,{status:"500",title:"500",subTitle:i.a.createElement("div",{style:{fontSize:14,fontWeight:"bold"}},"抱歉，服务器发生错误。"),extra:i.a.createElement(r.Button,{type:"primary",onClick:function(){return history.back()}},"返回上一页")})}}}]);
