@@ -121,7 +121,7 @@
     "clipboardy": "2.3.0",
     "colors": "1.4.0",
     "copy-webpack-plugin": "6.4.1",
-    "core-js": "3.18.2",
+    "core-js": "3.19.2",
     "cross-env": "7.0.3",
     "css-loader": "5.2.7",
     "file-loader": "6.2.0",
